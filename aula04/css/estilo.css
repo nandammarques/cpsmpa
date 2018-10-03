@@ -1,0 +1,32 @@
+div {
+    background-color: lightseagreen;
+    border: 1px solid red;
+}
+
+h1 { 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: ivory;
+}
+
+#paragrafo1 {
+    color: hotpink;
+}
+
+#p2 {
+    color: red;
+}
+
+#t2 {
+    color: purple;
+}
+
+#t3 {
+    color: purple;
+}
+
+.alerta {
+    background-color: yellow;
+    margin-left: 150px;
+    margin-right: 150px; 
+    margin-top: 150px;
+}
